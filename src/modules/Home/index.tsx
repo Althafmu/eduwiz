@@ -26,9 +26,9 @@ const Home = () => {
         </div >
       </div>
       <div className={styles.homeWrapper1}>
-        <div className={styles.homeContent}>
-          <button>text</button>
-          <textarea name="text" id="text" cols={500} rows={40}></textarea>
+        <div className={styles.homeContent1}>
+          <textarea name="text" id="text" cols={150} rows={40}></textarea>
+          <button>generate</button>
         </div>
       </div>
       <Footer />

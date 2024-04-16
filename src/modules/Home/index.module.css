@@ -41,6 +41,16 @@ background: lightgray 0px -360.889px / 100% 205.567% no-repeat
     width: 50%;
     text-align: center;
 }
+.homeContent1{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: top -100px ;
+    gap: 1rem;
+    width: 90%;
+    text-align: center;
+}
 
 .hometext{
   display: flex;
